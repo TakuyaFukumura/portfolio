@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "ITエンジニアのポートフォリオサイト",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakuyaFukumura/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "github-pages",
+    "website"
+  ],
+  "author": "Takuya Fukumura",
+  "license": "MIT",
+  "homepage": "https://takuyafukumura.github.io/portfolio/"
+}
